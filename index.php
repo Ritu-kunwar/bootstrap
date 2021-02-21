@@ -45,8 +45,8 @@
       
             <div class="jumbotron jumbotron-fluid jumbo">
               <div class="container py-5 text-center">
-                <h1>Welcome to Our Culture - Ritu</h1>      
-                <h1>Welcome to Our Culture - Sudesh</h1>                      
+                <h2>Welcome </h2>      
+                                     
             </div>
             
     </section>
@@ -57,7 +57,7 @@
               <div class="row py-5 ">
               <div class="col text-center ">
 
-              <h3>About Us Ritu</h3>
+              <h4>About</h4>
               </div>
               </div>
          <div class="row">
