@@ -57,7 +57,7 @@
               <div class="row py-5 ">
               <div class="col text-center ">
 
-              <h3>About Us</h3>
+              <h3>About Us Ritu</h3>
               </div>
               </div>
          <div class="row">
