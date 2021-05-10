@@ -1,1 +1,1 @@
-# bootstrap_traning_session
+# bootstrap
