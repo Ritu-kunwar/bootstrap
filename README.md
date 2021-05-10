@@ -1,1 +1,1 @@
-# bootstrap_traning_session_with_sudeshdai
+# bootstrap_traning_session
